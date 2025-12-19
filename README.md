@@ -15,7 +15,7 @@ This project analyzes real estate data alongside weather and natural disaster va
 ---
 
 ## 📊 Features and Workflow 
-
+ 
 - **Data Cleaning & Preparation**
   - Handling missing values
   - Renaming and reformatting columns for consistency 
