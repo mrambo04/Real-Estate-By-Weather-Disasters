@@ -2,7 +2,7 @@
 # 🌦️ Real Estate Ranking by Weather & Disasters 
    
 This project analyzes real estate data alongside weather and natural disaster variables to understand their impact on property value and safety. The goal is to rank locations or properties based on environmental risks and climate conditions, helping stakeholders make data-driven investment or relocation decisions .  
-        
+         
 ---               
            
 ## 📌 Project Objectives           
