@@ -10,7 +10,7 @@ This project analyzes real estate data alongside weather and natural disaster va
 - Integrate weather and disaster data with real estate information     
 - Analyze how factors like temperature, rainfall, and disaster frequency affect property desirability     
 - Rank or score regions based on weather and safety metrics   
-- Provide visual insights into environment-driven property evaluation 
+- Provide visual insights into environment-driven property evaluation  
   
 ---  
    
