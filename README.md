@@ -5,7 +5,7 @@ This project analyzes real estate data alongside weather and natural disaster va
          
 ---                 
                 
-## 📌 Project Objectives                 
+## 📌 Project Objectives                  
         
 - Integrate weather and disaster data with real estate information     
 - Analyze how factors like temperature, rainfall, and disaster frequency affect property desirability     
